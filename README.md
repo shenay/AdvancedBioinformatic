@@ -17,18 +17,18 @@ Topics Covered:
 
 | Day  | Teaching Material | Practical Sessions (Morning) |  Practical Sessions (Afternoon) |
 |------|-------------------|--------------------|--------------------|
-| Day 1 | [Introduction to Bioinformatics & Biological Resources](https://docs.google.com/presentation/d/1vYNZdfJpxQ3lowGRrhoGLHjHrHxqnvPvEOjrvmOdIGE/edit?usp=sharing) | [Practical - Morning](https://colab.research.google.com/drive/1Icxb8m5VmgRQtPAyQc_3M01-7DOVN4Mt?usp=sharing) | [Practical - Afternoon](https://colab.research.google.com/drive/1OTariXJB_GxZSKJEiu1GQq0zUsJyW-dt?usp=sharing) |
-| Day 2 | [Sequence Alignment & Phylogenetics](https://docs.google.com/presentation/d/1zrJVj2IOBvEhHwiuZ_dK577HBVVxVkyhUTaJWwJIC6A/edit?usp=sharing) | [Practical - Morning](https://colab.research.google.com/drive/1Qbp15LN6mHgi4v-Usjn7PC7qX6xLtByE?usp=sharing) | [Practical - Afternoon](https://colab.research.google.com/drive/1o5bZsUYvBukZqzpJVGpedX3OdlquD7hi?usp=sharing) |
-| Day 3 | [Genomics, Metagenomics & Transcriptomics](https://docs.google.com/presentation/d/1wc2eV5ghj9gQeunzKdzBxrQDGKKCHgHFq1sfbR3TmbE/edit?usp=sharing) | [Practical - Morning](https://colab.research.google.com/drive/1FQyiQ9pPey6SQ4W0-eNPzPZnDj0LmfdV?usp=sharing) | [Practical - Afternoon](https://colab.research.google.com/drive/1m1gp71Q1DpQLugTpd-X1wfDT3mbLrF3k?usp=sharing) |
-| Day 4 | [Proteomics & Structural Bioinformatics](https://docs.google.com/presentation/d/1DtThMWyUImCzQhZ3O8sqD0p1yX1kDxWTHJ9TfhytvI4/edit?usp=sharing) | [Practical - Morning](https://colab.research.google.com/drive/1OLJPX9C1aViXuP6QqEpFNMeaJAdUZOE5?usp=sharing) | [Practical - Afternoon](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb#scrollTo=mbaIO9pWjaN0) |
+| Day 1 | [Introduction to Biomedical Data Science](https://docs.google.com/presentation/d/1tZ0kdpSFlRJN2rGfs7UAq-1gvm6KPCkFq777WDVAhmI/edit?usp=sharing) | [Practical - Morning](https://colab.research.google.com/drive/1KjIDXOjZz4y3NR-FrZT5564jp9Vc4eUZ?usp=sharing) | [Practical - Afternoon](https://colab.research.google.com/drive/1cUwGEBfXLBOU7PY8tKj55R8T9AvzG33S?usp=sharing) |
+| Day 2  & 3 | [Fundamentals of Machine Learning in Biomedicine]([https://docs.google.com/presentation/d/1zrJVj2IOBvEhHwiuZ_dK577HBVVxVkyhUTaJWwJIC6A/edit?usp=sharing](https://docs.google.com/presentation/d/1WzBv5L2JWuRChE2WYvDMPR0EAQ3aONYmqTYyoD3z-8A/edit?usp=sharing)) | [Practical - Day2]([https://colab.research.google.com/drive/1Qbp15LN6mHgi4v-Usjn7PC7qX6xLtByE?usp=sharing](https://colab.research.google.com/drive/1c_A8lbOTt7zQdlMqy7SZ37XaaCQ6N4us?usp=sharing)) | [Practical - Day 3]([https://colab.research.google.com/drive/1o5bZsUYvBukZqzpJVGpedX3OdlquD7hi?usp=sharing](https://colab.research.google.com/drive/1BJK5AjvSXoy7AS0g2afPFCsUxhVgdMqc?usp=sharing)) |
+| Day 4 & 5 | [Advanced Genomics]([https://docs.google.com/presentation/d/1wc2eV5ghj9gQeunzKdzBxrQDGKKCHgHFq1sfbR3TmbE/edit?usp=sharing](https://docs.google.com/presentation/d/1JAtksDu7cPda1Ui7vgCL3TfbSy5nnsh6ZpCq1QFfldI/edit?usp=sharing)) | [Practical - Day 4](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | [Practical - Day 5](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html) |
+
 
 ---
 
 **Contributors:**
 
-Dr. Senay Kafkas (Day 1, 2, 3, 4, 5, 6)
+Dr. Senay Kafkas (Day 1, 2, 3, 4, 5)
 
-Dr. Norah Alghamdi (Day 5,6)
+Dr. Norah Alghamdi (Day 4, 5)
 
 **Licence:**
 
